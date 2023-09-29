@@ -1,3 +1,3 @@
 # realtime
 
-Still not yet ready to start 
+will be used to explore ideas on realtime technologies
